@@ -1,0 +1,420 @@
+.btn i {
+    padding-right: .5em;
+}
+
+header {
+    position: sticky;
+    top: 0;
+    z-index: 1020;
+}
+
+header .btn-primary {
+    background: linear-gradient(93.77deg, #0ACEFE -6.36%, #2699FB 50.16%);
+}
+
+header .btn-primary:hover {
+    background: linear-gradient(93.77deg, #2699FB -6.36%, #0ACEFE 50.16%);
+
+}
+
+/* .Sec-1{
+    min-height: 100vh;
+} */
+.nav-btn-res button:first-child {
+    background-color: rgb(255, 255, 255);
+}
+
+.nav-btn-res button:first-child:hover {
+    background-color: rgb(5, 127, 44);
+}
+
+.bannerContent h1 {
+    font-size: 52px;
+    font-weight: 700;
+}
+
+.bannerContent h1 span {
+    background: url("../image/border.png") no-repeat bottom;
+    color: #2699FB;
+}
+
+.bannerContent p {
+    font-size: 22px;
+    font-weight: 400;
+
+}
+
+.bannerContent ul {
+    list-style: none;
+}
+
+.bannerContent ul li {
+    font-size: 22px;
+    font-weight: 400;
+}
+
+.btnSection-btn-1 {
+    background: linear-gradient(93.77deg, #2699FB -6.36%, #0ACEFE 50.16%);
+    width: 278px;
+    height: 60px;
+}
+
+.btnSection-btn-1:hover {
+    background: linear-gradient(93.77deg, #0ACEFE -6.36%, #2699FB 50.16%);
+}
+
+.btnSection-btn-2 {
+    width: 278px;
+    height: 60px;
+}
+
+.formSection {
+    padding: 40px;
+    font-family: Inter;
+}
+
+.formSection h3 {
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.mo-input {
+    position: static;
+}
+
+.Register-btn-1 {
+    background: linear-gradient(93.77deg, #2699FB -6.36%, #0ACEFE 50.16%);
+}
+
+.Register-btn-1:hover {
+    background: linear-gradient(93.77deg, #0ACEFE -6.36%, #2699FB 50.16%);
+}
+
+.banner-last h1 {
+    font-family: Inter;
+    font-size: 30px;
+    font-weight: 700;
+    color: #2699FB;
+
+}
+
+.banner-last p {
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 400;
+    color: #43505B;
+}
+
+.highlight {
+    background-color: #F7FAFF;
+}
+
+.highlight div:first-child h1 {
+    font-family: Inter;
+    font-size: 36px;
+    font-weight: 700;
+    color: #0A2134;
+}
+
+.highlight div:first-child p {
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    color: #0A2134;
+}
+
+.highlight logoText h1 {
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    color: #0A2134;
+}
+
+.highlight div:first-child p {
+    font-family: Inter;
+    font-size: 15px;
+    font-weight: 400;
+    color: #0A2134;
+}
+
+.highlightBtn button {
+    width: 253px;
+    height: 50px;
+    font-size: 20px;
+    font-weight: 700;
+    background: linear-gradient(93.77deg, #2699FB -6.36%, #0ACEFE 50.16%);
+
+}
+
+.highlightBtn button:hover {
+    background: linear-gradient(93.77deg, #0ACEFE -6.36%, #2699FB 50.16%);
+
+}
+
+.Sec-3 div:first-child h1 {
+    font-family: Inter;
+    font-size: 44px;
+    font-weight: 700;
+
+}
+
+.Sec-3 div:first-child p {
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+
+.Sec-3 .box-img img {
+    width: 56px;
+    height: 56px;
+}
+
+.box-content h1 {
+    font-family: Inter;
+    font-size: 18px !important;
+    font-weight: 600;
+}
+
+.box-content p {
+    font-family: Inter;
+    font-size: 15px !important;
+    font-weight: 400;
+    line-height: 22px;
+
+}
+
+.Sec-4 {
+    background-color: #F7FAFF;
+}
+
+.Sec-4 .sec4Left h1 {
+    font-family: Inter;
+    font-size: 36px;
+    font-weight: 700;
+
+}
+
+.Sec-4 .sec4Left p {
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+
+
+}
+
+.Sec-4 button {
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    background: linear-gradient(93.77deg, #0ACEFE -6.36%, #2699FB 50.16%);
+}
+
+.Sec-4 button:hover {
+    background: linear-gradient(93.77deg, #2699FB -6.36%, #0ACEFE 50.16%);
+}
+
+.certificate div:first-child {
+    background-image: url('../image/dottedBG.svg'), url('../image/Ellipse.svg');
+    background-position: top left, bottom right;
+    background-repeat: no-repeat, no-repeat;
+}
+
+.sec-5-top-side h3 {
+    font-family: Inter;
+    font-size: 44px;
+    font-weight: 700;
+}
+
+.sec-5-top-side p {
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+}
+
+.Sec-5 .tab-1 ul li {
+    list-style: none;
+}
+
+.nav-pills .nav-link.active,
+.nav-pills .show>.nav-link {
+    border-radius: 0;
+    background-color: #F2F4F7;
+    border-bottom: 3px solid #2699FB;
+    color: black;
+}
+
+.sec5-Btn button {
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 700;
+    background: linear-gradient(93.77deg, #0ACEFE -6.36%, #2699FB 50.16%);
+}
+
+.sec5-Btn button:hover {
+    background: linear-gradient(93.77deg, #2699FB -6.36%, #0ACEFE 50.16%);
+}
+
+.Sec-6 {
+    background-color: #F7FAFF;
+}
+
+.Sec-6 .top-side h1 {
+    font-family: Inter;
+    font-size: 36px;
+    font-weight: 700;
+
+}
+
+.Sec-6 .top-side p {
+    font-family: Inter;
+    font-size: 18 px;
+    font-weight: 400;
+    line-height: 26px;
+
+}
+
+.Sec-6 .bottom-side h1 {
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+
+}
+
+.Sec-6 .bottom-side p {
+    font-family: Inter;
+    font-size: 16 px;
+    font-weight: 400;
+    line-height: 26px;
+
+}
+
+.Sec-6-Btn button {
+    background: linear-gradient(93.77deg, #2699FB -6.36%, #0ACEFE 50.16%);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+
+}
+
+.Sec-6-Btn button:hover {
+    background: linear-gradient(93.77deg, #0ACEFE -6.36%, #2699FB 50.16%);
+}
+
+.Sec-7 .Sec-7-Top h1 {
+    font-family: Inter;
+    font-size: 44px;
+    font-weight: 700;
+    line-height: 53.25px;
+
+}
+
+.Sec-7 .Sec-7-Top p {
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+
+
+}
+
+.Sec-7 .box .imgPart img {
+    width: 80px;
+    border-radius: 100%;
+}
+
+.Sec-7 .box .contentPart h1 {
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.Sec-7 .box .contentPart p {
+    font-family: Inter;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 22px;
+}
+
+.Sec-7 .Sec-7-bottom {
+    background: linear-gradient(93.77deg, #0ACEFE -6.36%, #2699FB 50.16%);
+    color: white;
+}
+
+.Sec-7 .Sec-7-bottom h1 {
+    font-family: Inter;
+    font-size: 44px;
+    font-weight: 700;
+    line-height: 53.25px;
+
+}
+
+.Sec-7 .Sec-7-bottom p {
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 30px;
+    text-align: center;
+}
+
+.Sec-7 .Sec-7-bottom button {
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    color: black;
+
+}
+
+.Sec-8 {
+    background-color: #F7FAFF;
+}
+
+.Sec-8 .faq h1 {
+    font-family: Inter;
+    font-size: 44px;
+    font-weight: 700;
+    line-height: 53.25px;
+
+}
+.Sec-8 .faq p {
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height:27px;
+
+}
+.Sec-8 .accordion-button {
+    z-index: 1 !important;
+
+}
+
+.Sec-9 h4 {
+    font-family: Inter;
+    font-size: 36px;
+    font-weight: 700;
+
+}
+
+.Sec-10 {
+    background-color: #0A2134;
+
+}
+
+.Sec-10 p {
+    color: white;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+
+}
+
+footer {
+    background-color: #0A2134;
+}
+
+footer p {
+    color: white;
+}

@@ -1,0 +1,212 @@
+@media screen and (min-width:200px) and (max-width:576px) {
+    .nav-btn-res {
+        margin: -12px;
+        position: fixed;
+        bottom: -1px;
+        justify-content: center !important;
+        padding: 5px;
+        padding-bottom: 16px;
+        box-shadow: 1px 1px 1px 1px;
+        background-color: white;
+    }
+
+    .bannerContent h1 {
+        font-size: 38px;
+        font-weight: 700;
+    }
+
+    .bannerContent h1 br {
+        display: none;
+    }
+
+    .bannerContent p,
+    .bannerContent ul li {
+        font-size: 16px;
+    }
+
+    .btnSection .row {
+        gap: 12px;
+        margin-left: 12px;
+    }
+
+    .Sec-3 div:first-child h1 {
+        font-size: 35px;
+
+
+    }
+
+    .Sec-3 div:first-child p {
+        font-size: 14px;
+        font-weight: 400;
+    }
+
+
+    .Sec-3 .box-img img {
+        width: 56px;
+        height: 56px;
+    }
+
+    .box-content h1 {
+        font-size: 15px !important;
+    }
+
+    .box-content p {
+        font-size: 10px !important;
+        line-height: 14px;
+
+    }
+
+    .sec-5-top-side h3 br {
+        display: none;
+    }
+    .sec-5-top-side h3 {
+        font-size: 26px;
+    }
+    .sec-5-top-side p {
+        font-size: 10px;
+    }
+    .Sec-9 h4 {
+        font-family: Inter;
+        font-size: 16px;
+        font-weight: 700;
+    
+    }
+    .Sec-10 p{
+        color: white;
+        font-family: Inter;
+        font-size: 10px;
+        font-weight: 400;
+        line-height: 20px;
+        
+    }
+    
+    footer p{
+        font-size: smaller;
+        color: white;
+        padding-bottom: 35px;
+    }
+    .Sec-7 .Sec-7-bottom h1 {
+        font-size: 25px;
+        font-weight: 700;
+        line-height: 35px;
+    }
+    
+    .Sec-7 .Sec-7-bottom p {
+        font-size: 13px;
+        font-weight: 500;
+        line-height: 20px;
+    }
+    .Sec-7 .Sec-7-bottom button {
+        font-size: 10px;
+    }
+    .Sec-7 .Sec-7-bottom img {
+        display: none;
+    }
+    .Sec-7 .Sec-7-Top h1 {
+        font-size: 30px;
+    
+    }
+    .Sec-7 .Sec-7-Top h1 br {
+        display: none;
+    
+    }
+    
+    .Sec-7 .Sec-7-Top p {
+        font-size: 15px;
+        line-height: 18px;
+    
+    
+    }
+    .Sec-8 .faq h1 {
+        font-size: 30px;
+        font-weight: 700;
+        line-height:30px;
+    
+    }
+    .Sec-8 .faq h1 br{
+        display: none;
+    }
+    .Sec-8 .faq p {
+        font-family: Inter;
+        font-size: 18px;
+        font-weight: 400;
+        line-height:27px;
+    
+    }
+}
+
+@media screen and (min-width:576px) and (max-width:768px) {
+    header button {
+        font-size: 14px !important;
+
+    }
+
+    .btnSection-btn-1 {
+        width: 233px;
+    }
+
+    .btnSection-btn-2 {
+        width: 233px;
+    }
+    .Sec-9 h4 {
+        font-family: Inter;
+        font-size: 20px;
+        font-weight: 700;
+    
+    }
+    .Sec-7 .Sec-7-bottom h1 {
+        font-size: 25px;
+        font-weight: 700;
+        line-height: 35px;
+    }
+    
+    .Sec-7 .Sec-7-bottom p {
+        font-size: 13px;
+        font-weight: 500;
+        line-height: 20px;
+    }
+    .Sec-7 .Sec-7-bottom button {
+        font-size: 10px;
+    }
+    
+    .Sec-8 .faq h1 br{
+        display: none;
+    
+    }
+}
+@media screen and (min-width:769px) and (max-width:992px) {
+   
+    .Sec-9 h4 {
+        font-family: Inter;
+        font-size: 20px;
+        font-weight: 700;
+    
+    }
+    .Sec-7 .Sec-7-bottom h1 {
+        font-size: 25px;
+        font-weight: 700;
+        line-height: 35px;
+    }
+    
+    .Sec-7 .Sec-7-bottom p {
+        font-size: 13px;
+        font-weight: 500;
+        line-height: 20px;
+    }
+    .Sec-7 .Sec-7-bottom button {
+        font-size: 10px;
+    }
+   
+    
+}
+
+@media screen and (min-width:992px) and (max-width:1200px) {
+    .btnSection-btn-1 {
+        width: 233px;
+    }
+    
+    .btnSection-btn-2 {
+        width: 233px;
+    }
+ 
+}
